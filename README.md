@@ -31,5 +31,5 @@ This repository contains a lab report on **monitoring and managing system resour
 ## 📌 Achievement 
 *"Completed lab on monitoring and managing Windows system resources, gaining hands-on experience in service configuration, event log analysis, performance monitoring, and system troubleshooting."*
 ## 📂link of file 
- 
+ [click here](https://github.com/NIMRAA3/Windows-System-Resources-Lab/blob/main/Lab_Report_Windows_System_Resources.pdf)
 
